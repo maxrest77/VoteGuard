@@ -1,5 +1,11 @@
 # VoteGuard - Secure Voting System
 
+Project done by:
+Nishanth kannan
+Karthikeyan S
+Mutthuram SR
+J Aakash
+
 A professional, secure voting system with fingerprint authentication built using modern technologies.
 
 ## 🚀 Features
